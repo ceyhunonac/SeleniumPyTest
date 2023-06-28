@@ -1,3 +1,4 @@
+SCREENSHOTS
 1)![test-emptyusername-login--](https://github.com/ceyhunonac/SeleniumPyTest/assets/74990452/2373e09f-eda9-469d-a187-c8a1b72146aa)
 
 2)![test-emptypassword-login-asdfg-](https://github.com/ceyhunonac/SeleniumPyTest/assets/74990452/d0f9f7e6-8cc6-40d1-a8c1-adcd057f803e)
